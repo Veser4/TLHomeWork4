@@ -1,0 +1,5 @@
+C:\Users\veser\source\repos\DataBaseProvider\obj\Debug\net6.0\DataBaseProvider.csproj.AssemblyReference.cache
+C:\Users\veser\source\repos\DataBaseProvider\obj\Debug\net6.0\DataBaseProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veser\source\repos\DataBaseProvider\obj\Debug\net6.0\DataBaseProvider.AssemblyInfoInputs.cache
+C:\Users\veser\source\repos\DataBaseProvider\obj\Debug\net6.0\DataBaseProvider.AssemblyInfo.cs
+C:\Users\veser\source\repos\DataBaseProvider\obj\Debug\net6.0\DataBaseProvider.csproj.CoreCompileInputs.cache

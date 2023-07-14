@@ -1,0 +1,5 @@
+C:\Users\veser\source\repos\Manchkin\obj\Debug\net6.0\Manchkin.csproj.AssemblyReference.cache
+C:\Users\veser\source\repos\Manchkin\obj\Debug\net6.0\Manchkin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veser\source\repos\Manchkin\obj\Debug\net6.0\Manchkin.AssemblyInfoInputs.cache
+C:\Users\veser\source\repos\Manchkin\obj\Debug\net6.0\Manchkin.AssemblyInfo.cs
+C:\Users\veser\source\repos\Manchkin\obj\Debug\net6.0\Manchkin.csproj.CoreCompileInputs.cache

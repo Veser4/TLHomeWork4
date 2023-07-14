@@ -1,0 +1,5 @@
+C:\Users\veser\source\repos\ManchkinMigrations\obj\Debug\net6.0\ManchkinMigrations.csproj.AssemblyReference.cache
+C:\Users\veser\source\repos\ManchkinMigrations\obj\Debug\net6.0\ManchkinMigrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veser\source\repos\ManchkinMigrations\obj\Debug\net6.0\ManchkinMigrations.AssemblyInfoInputs.cache
+C:\Users\veser\source\repos\ManchkinMigrations\obj\Debug\net6.0\ManchkinMigrations.AssemblyInfo.cs
+C:\Users\veser\source\repos\ManchkinMigrations\obj\Debug\net6.0\ManchkinMigrations.csproj.CoreCompileInputs.cache
